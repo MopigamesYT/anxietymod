@@ -735,7 +735,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.8;
 ```
 
-b: CATS CAN'T DIGEST MILK AND WE'RE TERRIBLE PEOPLE FOR ENJOYING ANIMAL ABUSE
+b: CATGIRLS AREN'T REAL CATS!!1 THEY CAN'T DIGEST CUM AND WE'RE TERRIBLE PEOPLE FOR ENJOYING FURRY
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"fear"});
@@ -752,7 +752,7 @@ hong({mouth:"anger", eyes:"annoyed"});
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-h: o-KAY, gonna try Snapchat.
+h: o-KAY, gonna try 4chan.
 
 (#act1e)
 
@@ -760,7 +760,7 @@ h: o-KAY, gonna try Snapchat.
 
 `hong({mouth:"neutral", eyes:"neutral"});`
 
-h: Huh, photos from yesterday night. So *that's* what those weekly parties are like.
+h: Huh, pics from yesterday night. So *that's* what those weekly orgy's are like.
 
 {{if _.partyinvite=="yes"}} (#act1e_said_yes) {{/if}}
 
@@ -772,7 +772,7 @@ h: Huh, photos from yesterday night. So *that's* what those weekly parties are l
 
 `hong({mouth:"sad", eyes:"annoyed"});`
 
-h: Oof, looks way too crowded for my anxiety.
+h: Oof, looks way too crowded for my little dick.
 
 h: Maybe I shouldn't have said yes to the invite?
 
@@ -786,7 +786,7 @@ bb({mouth:"normal", eyes:"normal"});
 [Change our answer! It's too crowded!](#act1e_yes_changetono)
 
 {{if _.subtweet}}
-[Yeah they were totally subtweeting us.](#act1e_ignore_subtweet)
+[Yeah they were totally cumming at us.](#act1e_ignore_subtweet)
 {{/if}}
 
 {{if _.badnews}}
@@ -804,14 +804,14 @@ bb({eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: They were counting on us to come and now we're betraying their trust? Do you wanna die alone?!
+b: They were counting on us to come and now we're betraying their trust? Do you wanna cum alone?!
 
 {{if _.fifteencigs}}
 b: FIFTEEN. CIGARETTES.
 {{/if}}
 
 {{if _.whalepoop}}
-b: WHALE. POOP.
+b: ALIEN. DUMPHOLE.
 {{/if}}
 
 ```
@@ -892,10 +892,10 @@ h: Maybe I shouldn't have said no to the invite?
 
 [Change our answer? Like a jerk?!](#act1e_no_dontchange)
 
-[Change our answer! Don't die alone!](#act1e_no_changetoyes)
+[Change our answer! Don't cum alone!](#act1e_no_changetoyes)
 
 {{if _.subtweet}}
-[Yeah they were totally subtweeting us.](#act1e_ignore_subtweet)
+[Yeah they were totally cumming at us.](#act1e_ignore_subtweet)
 {{/if}}
 
 {{if _.badnews}}
@@ -912,7 +912,7 @@ h: Maybe I shouldn't have said no to the invite?
 
 b: Everybody was counting on us!
 
-b: ...to leave them alone and let them have a nice party without a horrible disgusting {{if _.whitebread}}white-bread-munching{{/if}} creep like u--
+b: ...to leave them alone and let them have a nice orgy without a horrible disgusting {{if _.whitebread}}white-bread-munching{{/if}} creep like u--
 
 
 ```
@@ -969,14 +969,14 @@ bb({eyes:"fear", mouth:"small"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: All our problematic tweets have come back to roost!
+b: All our problematic comments have come back to roost!
 
 ```
 bb({body:"fear", eyes:"fear", mouth:"normal"});
 Game.OVERRIDE_TEXT_SPEED = 1.7;
 ```
 
-b: We're gonna get called out and cancelled and dragged with a rope on horseback down the information superhighway!
+b: We're gonna get called out and cancelled and fucked with a rope in a red room and our nails removed slowly and painfully!! (you like that don't you?)
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -1009,7 +1009,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: We're the reason fascism will arise from the rubble of democracy!
+b: We're the reason hitler will arise from the rubble of your fat ass!
 
 ```
 bb({body:"normal", eyes:"anger"});
@@ -1072,7 +1072,7 @@ h: Maybe I shouldn't have ignored the invite?
 
 `bb({mouth:"normal", eyes:"normal"});`
 
-[Keep ignoring, we're still party poopers.](#act1e_ignore_continue)
+[Keep ignoring, we're still orgy poopers..](#act1e_ignore_continue)
 
 [Actually, say yes.](#act1e_ignore_changetoyes)
 
@@ -1086,7 +1086,7 @@ h: It's kinda rude to keep ignoring them though, no?
 
 `bb({eyes:"normal_right"});`
 
-b: Well other people always ignore *us*, so
+b: Well other people always let us masturbate and just look at *us*, so
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -1170,13 +1170,13 @@ b: DANGER DANGER DANGER DANGER DANGER DANGER
 
 [We're just *using* other people.](#act1f_using_others)
 
-[YOUR MATCH IS A SERIAL KILLER](#act1f_killer)
+[YOUR MATCH IS GONNA RAPE YOU!!1](#act1f_killer)
 
 # act1f_used_by_others
 
 `bb({body:"point_crotch", eyes:"normal", mouth:"normal"})`
 
-b: Random hookups may be able to fill the hole down there,
+b: Random hookups may be able to fill you fat ass,
 
 b: but they can never fill the hole...
 
@@ -1191,7 +1191,7 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: The point is WE'RE GOING TO DIE ALONE
+b: The point is WE'RE GOING TO CUM ALONE
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -1295,19 +1295,19 @@ attack("18p", "bad");
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 {{if _.whitebread}}
-b: They'll trap you in a well and force-feed you white bread to fatten you up so they can wear your skin like a suit!
+b: They'll trap you in a well and force-feed you cum sandwich to fatten you up so they can wear your skin like a suit!
 {{/if}}
 
 {{if _.parasite}}
-b: They'll bludgeon you with a pomodoro timer and say "YOU SHOULDA BEEN MORE PRODUCTIVE YOU PARASITE"
+b: They'll bludgeon you with a pomodoro timer and say "YOU SHOULDA CUM MORE YOU PARASITE"
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
-b: They'll tear your flesh to gory confetti, turn your entrails into streamers, and mix your blood into a punch bowl!
+b: They'll tear your flesh to gory confetti, turn your entrails into streamers, and mix your cum into a punch bowl!
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
-b: How's THAT for a party invite?!
+b: How's THAT for a orgy invite?!
 {{/if}}
 
 ```
@@ -1334,7 +1334,7 @@ h: ...
 
 (...500)
 
-h: i'm so sick of this game.
+h: i'm so sick of this bitc bro..
 
 (...700)
 
@@ -1351,27 +1351,27 @@ h:
 {{if _.catmilk}}"cats can't digest milk"... {{/if}}
 {{if _.pokemon}}a ^crappy^ parody song... {{/if}}
 
-h: i just want to live my life.
+h: i just want to have sex once live my life.
 
 h: i just want to be free from all this... pain.
 
 `bb({eyes:"look_sad"});`
 
-b: Hey... human...
+b: Hey... bitch...
 
 `Game.OVERRIDE_TEXT_SPEED = 0.5;`
 
-b: It'll be okay.
+b: Kill yourself <3.
 
 (...600)
 
 `bb({body:"point_heart", eyes:"look_sad_smile", mouth:"smile"});`
 
-b: As your loyal guard-wolf, I'll always keep an eye out for danger, and do my best to keep you safe.
+b: you should kill yourself, NOW!!1
 
 `bb({body:"normal", eyes:"look_sad", mouth:"smile"});`
 
-b: I promise.
+b: I promise, do it or i'm going to fuck your ass in a corner and cut your pp
 
 (...600)
 
@@ -1380,29 +1380,29 @@ bb({body:"normal", eyes:"normal", mouth:"normal"});
 hong({body:"phone1", eyes:"neutral", mouth:"neutral"});
 ```
 
-h: Last app. Instagram. What you got?
+h: Last app. twitter. What you got?
 
 `hong({eyes:"sad"});`
 
-h: It's... more party pictures.
+h: It's... more orgy pictures.
 
 `hong({mouth:"sad"});`
 
-h: Everyone looks so happy. Free from worry. Free from anxiety.
+h: Everyone looks so happy. Free from worry. Free from sex.
 
 `hong({mouth:"anger"});`
 
-h: God, why can't I be like them? Why can't I just be *normal?*
+h: Peppino, why can't I be like them? Why can't I just be *normal?*
 
 `bb({eyes:"normal_right"});`
 
-b: Speaking of parties, about this weekend's invite. Here's my FINAL decision:
+b: Speaking of orgies, about this weekend's invite. Here's my FINAL decision:
 
 `bb({eyes:"normal"});`
 
-[We should go.](#act1g_go) `Game.OVERRIDE_CHOICE_LINE=true`
+[Cum.](#act1g_go) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[We should not go.](#act1g_dont) `Game.OVERRIDE_CHOICE_LINE=true`
+[Do not cum.](#act1g_dont) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1g_go
 
@@ -1418,7 +1418,7 @@ b: Speaking of parties, about this weekend's invite. Here's my FINAL decision:
 
 # act1h
 
-b: We sh--
+b: Cu--
 
 ```
 bb({eyes:"wat", mouth:"small"});
@@ -1429,7 +1429,7 @@ h: *^FUCK^.*
 
 `hong({body:"2_you"});`
 
-h: YOU.
+h: MY ASS.
 
 (...500)
 
@@ -1439,11 +1439,11 @@ b: w
 
 `bb({eyes:"wat_2"});`
 
-b: wha?
+b: whar
 
 `hong({body:"phone1", eyes:"anger", mouth:"anger"});`
 
-h: I'm going to say YES to that party,
+h: I'm going to say YES to that orgy,
 
 {{if _.act1g=="go"}}
 h: NOT because you want me to, but because *I* want to.
@@ -1465,7 +1465,7 @@ sfx("rustle2");
 hong({body:"0_sammich", eyes:"0_annoyed", mouth:"0_neutral"});
 ```
 
-h: Now excuse me while I eat this delicious sandwich in ^goddamn^ peace.
+h: Now excuse me while I eat this delicious cum sandwich in ^goddamn^ peace.
 
 `hong({body:"2_sammich_eat"});`
 
@@ -1490,24 +1490,24 @@ bb({eyes:"normal_right"});
 Game.OVERRIDE_TEXT_SPEED = 1;
 ```
 
-b: ...
+b: hey...
 
 ```
 bb({eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 4;
 ```
 
-b: ..................
+b: .........i'm talking to you.........
 
 (...500)
 
 `bb({mouth:"normal"});`
 
-[AHHHH WE'RE GONNA DIE](#act1h_death) `Game.OVERRIDE_CHOICE_LINE = true;`
+[YOU WILL NEVER HAVE SEX](#act1h_death) `Game.OVERRIDE_CHOICE_LINE = true;`
 
-[AHHHH EVERYONE HATES US](#act1h_loneliness) `Game.OVERRIDE_CHOICE_LINE = true;`
+[YOU SERVE NO PURPOSE!!!](#act1h_loneliness) `Game.OVERRIDE_CHOICE_LINE = true;`
 
-[AHHHH WE'RE HORRIBLE PEOPLE](#act1h_worthless) `Game.OVERRIDE_CHOICE_LINE = true;`
+[YOU SHOULD KILL YOURSELF, NOW!!!!1](#act1h_worthless) `Game.OVERRIDE_CHOICE_LINE = true;`
 
 # act1h_death
 
@@ -1516,7 +1516,7 @@ bb({body:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 3;
 ```
 
-b: AHHHH WE'RE GONNA DIE AAAAAAHHHHHHH
+b: YOU WILL NEVER HAVE SEX!!1
 
 ```
 hong({body:"3_defeated1"});
@@ -1534,7 +1534,7 @@ bb({body:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 3;
 ```
 
-b: AHHHH EVERYONE HATES US AAAAAAHHHHHHH
+b: YOU HAVE NOTHING TO DO ON EARTH!!!1
 
 ```
 hong({body:"3_defeated1"});
@@ -1552,7 +1552,7 @@ bb({body:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 3;
 ```
 
-b: AHHHH WE'RE HORRIBLE PEOPLE AAAAAAHHHHHHH
+b: k, y and s!
 
 ```
 hong({body:"3_defeated1"});
@@ -1574,13 +1574,13 @@ n: CONGRATULATIONS
 
 (...500)
 
-n: YOU'VE SUCCESSFULLY PROTECTED YOUR HUMAN'S PHYSICAL + SOCIAL + MORAL NEEDS
+n: YOU'VE SUCCESSFULLY PROTECTED YOUR DICKHEAD'S PHYSICAL + SOCIAL + SEX NEEDS
 
 n: WHY, LOOK HOW GRATEFUL THEY ARE!
 
 (...500)
 
-n: NOW THAT THEIR ENERGY IS ZERO, YOU CAN DIRECTLY CONTROL THEIR ACTIONS
+n: NOW THAT THEIR ENERGY IS ZERO, YOU CAN DIRECTLY FUCK THEM
 
 `bb({mouth:"smile", eyes:"normal"});`
 
@@ -1588,11 +1588,11 @@ n: PICK YOUR ENDING MOVE
 
 `bb({mouth:"small_lock", eyes:"fear"});`
 
-n: *FINISH THEM*
+n: *FUCK THEM UP*
 
 [{FIGHT: Punish your stressful phone!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{FLIGHT: Curl up in a ball and cry!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FLIGHT: Curl up in a ball and cum with your eyes!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1i_phone
 
@@ -1602,7 +1602,7 @@ b: Your phone was giving you a panic attack!
 
 `bb({eyes:"anger"})`
 
-b: Zuckerberg and Co are hijacking your mental health for venture capitalist money!
+b: hitler and Co are hijacking your mental health for venture nazi's money!
 
 ```
 bb({body:"fear", eyes:"fear"});
@@ -1627,7 +1627,7 @@ b: KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL 
 
 `bb({eyes:"fear", mouth:"normal"})`
 
-b: The whole world is filled with danger!
+b: The whole world is filled with dancumger!
 
 ```
 bb({body:"fear"});
@@ -1635,7 +1635,7 @@ hong({body:"3_defeated2"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Do like the armadillo! Curl up into a ball for self-defense!
+b: Do like the armadillo! Curl up into a ball and cum with your eyes!
 
 ```
 Game.OVERRIDE_TEXT_SPEED = 2.5;
@@ -1644,7 +1644,7 @@ hong({body:"3_defeated3"});
 _.act1_ending = "flight";
 ```
 
-b: CURL UP AND CRY CURL UP AND CRY CURL UP AND CRY CURL UP AND CRY CURL UP AND CRY CURL UP AND CR-- 
+b: CURL UP AND CUM CURL UP AND CUM CURL UP AND CUM CURL UP AND CUM CURL UP AND CUM CURL UP AND CU-- 
 
 (#act1j)
 
