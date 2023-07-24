@@ -6,9 +6,9 @@ SceneSetup.act1();
 
 (...300)
 
-n: AND THIS IS THE HUMAN'S ANXIETY
+n: AND THIS IS THE DICKHEAD'S SEX MONSTER
 
-n: _YOU_ ARE THE ANXIETY
+n: _YOU_ ARE THE SEX MONSTER
 
 {{if window.localStorage.continueChapter=="replay"}}
 (#act1_replay)
@@ -24,17 +24,17 @@ n: _YOU_ ARE THE ANXIETY
 
 `hong({mouth:"0_neutral", eyes:"0_neutral"})`
 
-h: Oh hey! We're back here again?
+h: Hey, Sex?
 
 `hong({eyes:"0_neutral"})`
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: YOUR JOB IS TO PROTECT YOUR DICKHEAD TO BE TOO HORNY :3
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: IN FACT, REPLAYING THIS GAME IS PUTTING THEM IN *DANGER* RIGHT NOW
+n: IN FACT, REPLAYING THIS GAME IS PUTTING THEM IN *BIG SEX* RIGHT NOW
 
-n: QUICK, WARN THEM!
+n: QUICK, UNSEX THEM!!1
 
 ```
 sfx("squeak");
@@ -42,13 +42,13 @@ bb({body:"squeeze_talk"});
 hong({body:"0_squeeze"});
 ```
 
-b: Human! Listen, we're in danger! The player...
+b: Human! Listen, we're in sex! The player...
 
-[...is gonna torture us again!](#act1_replay_torture)
+[...is gonna have sex with us again!](#act1_replay_torture)
 
-[...won't find an alternate ending!](#act1_replay_alternate)
+[...won't have sex in an alternate ending!](#act1_replay_alternate)
 
-[...will get ludonarrative dissonance!](#act1_replay_dissonance)
+[...will get sex addiction!!1](#act1_replay_dissonance)
 
 # act1_replay_torture
 
@@ -59,32 +59,32 @@ hong({body:"0_sammich"});
 ```
 
 {{if window.HACK_REPLAY.act1_ending=="fight"}}
-b: They'll make us curl up into a ball and cry!
+b: They'll make us curl up into a ball and cum!
 {{/if}}
 
 {{if window.HACK_REPLAY.act1_ending=="flight"}}
-b: They'll make us kill your phone for giving you a panic attack!
+b: They'll make us fuck your phone for giving you a sex attack!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
-b: They'll make us *NOT* punch the party host!
+b: They'll make us *cumfuck* the party host!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
-b: They'll make us punch the Sympathetic Anti-Villain party host!
+b: They'll make us have sex with the Sympathetic Anti-Villain party host!
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
-h: Well at least we might not jump off the roof this ti--
+h: Well at least we might have sex for the first time
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="walkaway"}}
-b: THEY'LL MAKE US JUMP OFF THE ROOF.
+b: THEY'LL MAKE US HAVE SEX WITH A SUCCUBUS
 {{/if}}
 
 `bb({body:"fear"});`
 
-b: ALL THESE NEW TERRIBLE THINGS WILL HAPPEN TO US, AND THEN WE'LL--
+b: ALL THESE NEW TERRIBLE THINGS WILL HAPPEN TO US AND WELL HAVE SEX WITH YOUR MOM!!1
 
 (#act1_replay_end)
 
@@ -96,11 +96,11 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 hong({body:"0_sammich"});
 ```
 
-h: Sure, the story as a *whole* is the same, but each chapter has two possible endings, plus all the branching dialogue opti--
+h: Sure, the story as a *whole* is the same, but each sex chapter has two possible endings, plus all the sex dialogue opti--
 
 `bb({body:"fear"});`
 
-b: The player will be disappointed, close this browser tab, delete our software, and then we'll--
+b: The player will be horny, suck this browser tab, fuck our software, and then we'll--
 
 (#act1_replay_end)
 
@@ -116,11 +116,11 @@ h: A lewd-what now?
 
 `bb({eyes:"normal"});`
 
-b: The story arc was about how you can *CHOOSE* to build a healthy collaboration with your fear,
+b: The story arc was about how you can *CHOOSE* to build a sex collaboration with your sex monster,
 
 `bb({eyes:"normal_right"});`
 
-b: But replaying the game will give the same story, implying your *CHOICES* don't matter,
+b: But replaying the game will give the same story, implying your *S E X* don't matter,
 
 `bb({eyes:"narrow_eyebrow"});`
 
@@ -141,7 +141,7 @@ b: And then we'll--
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUM!!1
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -164,13 +164,13 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 hong({body:"0_sammich"});
 ```
 
-h: Okay let's get back into character.
+h: Okay let's get back into sex.
 
 ```
 Game.clearText();
 ```
 
-n4: (LET _YOUR_ ANXIETY BLAH BLAH BLAH MOST SIMILAR TO WHAT _YOUR_ FEAR BLAH BLAH YOU KNOW THE DRILL)
+n4: (LET _YOUR_ SEX BLAH BLAH BLAH MOST SIMILAR TO WHAT _YOUR_ SEX WANT BLAH BLAH YOU KNOW THE DRILL)
 
 ```
 sfx("squeak");
@@ -186,17 +186,17 @@ bb({body:"squeeze"});
 
 `hong({mouth:"0_neutral", eyes:"0_annoyed"})`
 
-h: Oh good, my wolf's back. Faaaaantastic.
+h: Oh good, my cock's back. Cocacolasticccccc!!1.
 
 `hong({eyes:"0_neutral"})`
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: YOUR JOB IS TO PROTECT YOUR DICKHEAD FROM *SEX*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: IN FACT, THAT SANDWICH IS PUTTING THEM IN *DANGER* RIGHT NOW
+n: IN FACT, THAT SANDWICH IS PUTTING THEM IN *BIG SEX* RIGHT NOW
 
-n: QUICK, WARN THEM!
+n: QUICK, FUCK THEM!
 
 ```
 sfx("squeak");
@@ -204,21 +204,21 @@ bb({body:"squeeze_talk"});
 hong({body:"0_squeeze"});
 ```
 
-b: Human! Listen, we're in danger! The danger is...
+b: Human! Listen, we're in sex! The danger is...
 
 `bb({body:"squeeze"})`
 
-n4: (LET _YOUR_ ANXIETY COME OUT TO PLAY! PICK WHAT'S MOST SIMILAR TO WHAT _YOUR_ FEAR TELLS YOU)
+n4: (LET _YOUR_ SEX MONSTER COME OUT TO PLAY! PICK WHAT'S MOST SIMILAR TO WHAT _YOUR_ SEX TELLS YOU)
 
 (#act1_normal_choice)
 
 # act1_normal_choice
 
-[We're eating alone for lunch! Again!](#act1a_alone) `bb({body:"squeeze_talk"})`
+[We're masturbating alone for lunch! Again!](#act1a_alone) `bb({body:"squeeze_talk"})`
 
-[We're not productive while eating!](#act1a_productive) `bb({body:"squeeze_talk"})`
+[We're not produgonna have sex while eating!](#act1a_productive) `bb({body:"squeeze_talk"})`
 
-[That white bread's bad for us!](#act1a_bread) `bb({body:"squeeze_talk"})`
+[That cum sandwich's bad for us!](#act1a_bread) `bb({body:"squeeze_talk"})`
 
 # act1a_alone
 
@@ -227,27 +227,27 @@ bb({body:"normal", mouth:"small", eyes:"narrow"});
 hong({body:"0_sammich"});
 ```
 
-b: Don't you know loneliness is associated with premature death as much as smoking 15 cigarettes a day?-
+b: Don't you know sex is associated with marriage as much as smoking 15 cigarettes a day?-
 
 `Game.OVERRIDE_TEXT_SPEED = 2;`
 
 `bb({mouth:"normal", eyes:"normal_right"})`
 
-b: (Holt-Lunstad 2010, PLoS Medicine)
+b: (Source: Out of my fucking ass!!1)
 
 `hong({eyes:"0_annoyed"})`
 
-h: Um, thanks for citing your sources but--
+h: Um, thanks for citing your sources butt--
 
 `Game.OVERRIDE_TEXT_SPEED = 2;`
 
 `bb({body:"fear", mouth:"normal", eyes:"fear"})`
 
-b: Which means if we don't hang out with someone *right now* we're gonna-
+b: Which means if we don't fuck with someone *right now* we're gonna-
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUM!!1
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -260,7 +260,7 @@ publish("hp_show");
 
 `_.fifteencigs = true`
 
-n: YOU USED *FEAR OF BEING UNLOVED*
+n: YOU USED *UNCUM*
 
 (#act1b)
 
@@ -271,27 +271,27 @@ bb({body:"normal", mouth:"small", eyes:"normal"});
 hong({body:"0_sammich"});
 ```
 
-b: Whip out your laptop and do some work right now!
+b: Whip out your laptop of your cum and do some script right now!
 
 `hong({eyes:"0_annoyed"})`
 
-h: Um, I'd rather not get crumbs in my keyboa--
+h: Um, I'd rather not get cum on my keyboa--
 
 ```
 bb({mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: If we're not contributing to the body of society then we're a society-parasite!
+b: If we're not contributing to the sex of society then we're a sex-parasite!
 
-b: The society-body will go to the society-doctor for medication to kill their society-parasites then we'll--
+b: AND SOCIETY... SOCIETY!! SOCIETY CALLS US GAY!!!11NQSKJGDF JUST BECAUSE WE KISS'S HOMIES GOODNIGHT!!11 BUT GIRLS KISSES OTHER GIRLLLLLSSS!!!1sldfijhgqmljgukghGhjGFKHgKHFyjgFC
 
 ```
 bb({body:"panic", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CUUUUUUUUUUUM
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -304,7 +304,7 @@ publish("hp_show");
 
 `_.parasite = true`
 
-n: YOU USED *FEAR OF BEING A BAD PERSON*
+n: YOU USED *FEAR OF BEING CUMFUCKED*
 
 (#act1b)
 
@@ -315,18 +315,18 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 hong({body:"0_sammich", eyes:"0_annoyed"});
 ```
 
-h: Have those studies been replicat--
+h: nice ass bitch
 
 ```
 bb({body:"fear", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Processed wheat will spike our blood sugar so they'll have to amputate all our limbs and then we'll-
+b: too much sex in our ass could make us..
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CUUUUUUUUUUUUUUUUUUUUUUUUUUUM BLOOOOOOOOOOOOOOOOOOOOOOOOOOOOODDDD!!!!!!121211!!!1QLKJSDGFBKJQSHFLKJQSHDFKHVQBS
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -339,21 +339,21 @@ publish("hp_show");
 
 `_.whitebread = true`
 
-n: YOU USED *FEAR OF BEING HARMED*
+n: YOU USED *FEAR OF SEX*
 
 (#act1b)
 
 # act1b
 
-n: IT'S SUPER EFFECTIVE
+n: IT'S SUPER SEX!!!1
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: See, human? I am your loyal guard-wolf!
+b: See, dickhead? I am your right hand!!1
 
 `bb({body:"pride_talk"});`
 
-b: Trust your gut! Your feelings are always valid!
+b: Trust your right hand!!1 i can make you cum like no one!!!1
 
 `bb({body:"pride"});`
 
@@ -361,17 +361,17 @@ n: GET YOUR HUMAN'S ENERGY BAR TO ZERO
 
 n: TO PROTECT THEIR PHYSICAL + SOCIAL + MORAL NEEDS, YOU CAN USE:
 
-n: FEAR OF *BEING HARMED* #harm#
+n: FEAR OF *CUM* #harm#
 
-n: FEAR OF *BEING UNLOVED* #alone#
+n: FEAR OF *BEING CUMFUCKED* #alone#
 
-n: AND FEAR OF *BEING A BAD PERSON* #bad#
+n: AND FEAR OF *SEX* #bad#
 
 `Game.OVERRIDE_TEXT_SPEED = 1.25;`
 
-n4: (PRO-TIP: PLAY THE CHOICES THAT PERSONALLY HIT YOUR DEEPEST, DARKEST FEARS!~)
+n4: (PRO-TIP: CUM IN THEIR ASS IF THEY DON'T TOUCH GRASS!~)
 
-h: ...
+h: so much sex...
 
 ```
 hong({body:"putaway"});
@@ -383,18 +383,18 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-h: you know what maybe it's time to check my phone.
+h: you know what maybe it's time to fuck my phone.
 
 ```
 sfx("rustle2");
 hong({body:"phone1", mouth:"neutral", eyes:"neutral"})
 ```
 
-n: PROTECT YOUR HUMAN
+n: PROTECT YOUR DICKHEAD
 
 n: FROM THE WORLD. FROM OTHER PEOPLE. FROM THEMSELF.
 
-n: GOOD LUCK
+n: GOOD FUCK
 
 (...500)
 
@@ -412,11 +412,11 @@ n: ROUND ONE: *FIGHT!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"});`
 
-h: Huh. Facebook feed says there's a party happening this weekend.
+h: Huh. Pornhub feed says there's an orgy happening this weekend.
 
 `bb({eyes:"uncertain"});`
 
-b: Doesn't that weirdo throw a party *every* weekend?
+b: Doesn't that weirdo throw an orgy *every* weekend?
 
 `bb({eyes:"uncertain_right"});`
 
@@ -430,16 +430,16 @@ h: Also, I got an invite?
 
 b: Well then!
 
-[Say yes, or we'll die from loneliness!](#act1c_loner)
+[Say yes, or we'll cum lonely!](#act1c_loner)
 
-[Say no, it's full of poisonous drugs!](#act1c_drugs)
+[Say no, it's full of weirdos!](#act1c_drugs)
 
-[Ignore it, we just make parties sad.](#act1c_sad)
+[Ignore it, we just make orgy's bad.](#act1c_sad)
 
 # act1c_loner
 
 {{if _.fifteencigs}}
-b: Fifteen cigarettes a day, human! Fifteen!
+b: Fifteen cigarettes a day, dickhead! Fifteen!
 {{/if}}
 
 {{if !_.fifteencigs}}
@@ -447,11 +447,11 @@ b: Fifteen cigarettes a day, human! Fifteen!
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: Then no one will show up at our funeral, they'll dump our ashes into the ocean, we get eaten by a whale,
+b: Then no one will show up at our funeral, they'll dump our body in the street and our dead body will be raped..
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: and we become WHALE POOP!
+b: and we become the body that been fucked by 100 boys and girls and we'll get on the news for 10 years and we'll be put in frozen semen and 10,000 years later aliens will find us and fuck us!!1
 {{/if}}
 
 {{if !_.fifteencigs}} `_.whalepoop = true` {{/if}}
@@ -468,15 +468,15 @@ attack("18p", "alone");
 `bb({eyes:"normal"});`
 
 {{if !_.fifteencigs}}
-b: So yeah we should go to that party!
+b: So yeah we should go to that orgy!
 {{/if}}
 
 {{if _.parasite}}
-b: Just bring the laptop so we can do work, and not be a society-parasite.
+b: Just bring the laptop so we can watch pornhub, and not be a sex-parasite.
 {{/if}}
 
 {{if _.whitebread}}
-b: Just as long as they don't serve WHITE BREAD
+b: Just as long as they don't serve CUM SANDWICH
 {{/if}}
 
 `hong({mouth:"anger", eyes:"anger"});`
@@ -486,7 +486,7 @@ h: GOD. If it'll make you shut up, fine.
 h: I'll say yes.
 
 {{if _.whalepoop}}
-b: Whale poop, human! Whale poop!
+b: Alien dumphole, dickhead! Alien dumphole!
 {{/if}}
 
 `_.partyinvite="yes"`
@@ -498,7 +498,7 @@ b: Whale poop, human! Whale poop!
 `bb({mouth:"small", eyes:"fear"});`
 
 {{if _.whitebread}}
-b: or even worse... WHITE BREAD
+b: or even worse... CUM SANDWICH!!1
 {{/if}}
 
 {{if _.whitebread}}
@@ -506,11 +506,11 @@ b: or even worse... WHITE BREAD
 {{/if}}
 
 {{if _.whitebread}}
-b: We'll overdose on so much meth and white bread they won't be able to fit our fat corpse into the cremation furnace!
+b: We'll overdose on so much cum and bread they won't be able to fit our fat corpse into the orgy room!
 {{/if}}
 
 {{if !_.whitebread}}
-b: We'll overdose on so many drugs the undertaker will wonder how our body was *already* pre-embalmed!
+b: We'll overdose on so many cum the sex god will wonder how our body was *already* pregnant 100 times!
 {{/if}}
 
 ```
@@ -521,7 +521,7 @@ attack("18p", "harm");
 (...2500)
 
 {{if _.parasite}}
-b: Besides, can't party, we need to do work or we're a terrible society-parasite!
+b: Besides, can't orgy's, we need to masturbate on pornhub or we're a terrible sex-parasite!
 {{/if}}
 
 `hong({mouth:"anger", eyes:"anger"});`
@@ -541,15 +541,15 @@ h: I'll say no.
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 {{if _.fifteencigs}}
-b: All we ever do is cry in a corner about how loneliness is as deadly as 15 cigarettes a day.
+b: All we ever do is cum in a corner about how loneliness is as deadly as 15 cigarettes a day.
 {{/if}}
 
 {{if _.parasite}}
-b: All we ever do at parties is worry about how we should be productive instead.
+b: All we ever do at parties is worry about how we should be sex monsters instead.
 {{/if}}
 
 {{if _.whitebread}}
-b: All we ever do is worry about how the unhealthy food options are going to kill us.
+b: All we ever do is worry about how the cum is going to kill us.
 {{/if}}
 
 ```
@@ -595,19 +595,19 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 hong({mouth:"neutral", eyes:"annoyed"});
 ```
 
-h: Anyway. Facebook's too much. I need something calmer, less anxiety-producing.
+h: Anyway. Cumbook's too much. I need something calmer, less cum-producing.
 
 `hong({eyes:"neutral"});`
 
-h: What's new on Twitter?
+h: What's new on Rule34?
 
 `bb({eyes:"look"});`
 
-[Oh no, look at that horrible news story!](#act1d_news)
+[Oh no, look at that horrible sex with hitler pictures!](#act1d_news)
 
-[Oh no, is that tweet secretly about *us?*](#act1d_subtweet)
+[Oh no, is that picture about *us?*](#act1d_subtweet)
 
-[Hey, a GIF of a cat drinking milk](#act1d_milk)
+[Hey, a GIF of a catgirl drinking cum](#act1d_milk)
 
 
 # act1d_news
@@ -617,14 +617,14 @@ bb({eyes:"pained1"});
 music(null, {fade:2});
 ```
 
-b: God, it feels like the world's burning, isn't it?
+b: God, it feels like the world's cumming, isn't it?
 
 ```
 bb({eyes:"pained2"});
 hong({mouth:"sad", eyes:"sad"});
 ```
 
-b: It feels like it's all ending, like everything's dying and we're doomed and there's nothing we can do about it.
+b: It feels like it's all ending, like everything's dying and we're doomed to cum eternaly and there's nothing we can do about it.
 
 ```
 Game.OVERRIDE_TEXT_SPEED = 0.5;
@@ -635,7 +635,7 @@ b: ...
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: Let's retweet that story!
+b: Let's comment that story!
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -653,11 +653,11 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Okay I'll retweet it just please be quiet!
+h: Okay I'll comment it just please be quiet!
 
 `hong({mouth:"neutral", eyes:"annoyed"});`
 
-h: Screw it, let's look at Snapchat.
+h: Screw it, let's look at 4chan.
 
 (#act1e)
 
@@ -666,7 +666,7 @@ h: Screw it, let's look at Snapchat.
 
 `bb({eyes:"fear"});`
 
-b: It's a subtweet! A sneaky, sneaky subtweet!
+b: It's NSFW! A sneaky, sneaky NSFW!
 
 `hong({eyes:"annoyed"});`
 
@@ -674,13 +674,13 @@ h: It's probably not?
 
 `bb({eyes:"narrow", mouth:"small"});`
 
-b: but what if they're all talking behind our back
+b: but what if they're all cumming behind our ass..
 
 h: They're n--
 
 `bb({body:"fear", eyes:"fear", mouth:"normal"});`
 
-b: IN FRONT OF OUR BACK
+b: IN FRONT OF OUR ASS
 
 `hong({eyes:"sad", mouth:"sad"});`
 
@@ -719,7 +719,7 @@ hong({mouth:"anger", eyes:"annoyed"});
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-h: o-KAY, gonna try Snapchat.
+h: o-KAY, gonna try 4chan.
 
 (#act1e)
 
