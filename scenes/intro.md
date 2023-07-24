@@ -92,7 +92,7 @@ _.PLAYED_BEFORE = !!window.localStorage.continueChapter;
 
 `clearText()`
 
-n3: Welcome! This is less of a "game," more of an sex story. Hope you like having sex, nigga! :3
+n3: Welcome! This is less of a "game," more of an sex story. Hope you like having sex! :3
 
 n3: So before we start, how would *you* like to sex?
 
