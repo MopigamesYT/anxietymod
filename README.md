@@ -1,6 +1,10 @@
 ![](https://ncase.me/anxiety/sharing/banner.png)
 
 # [Play the interactive story here!](https://mopigamesyt.github.io/anxietymod)
+# WARNING: THIS IS A PARODY!!
+## It's completely stupid, has no sense at all but you can still try the game i guess
+# WARNING: NSFW!!!
+## The game contains a lot of cuss words and words realted to sex. be warned!
 
 ## Public Domain
 
